@@ -20,8 +20,8 @@
     },
     {
       "id": 4,
-      "name": "Harvey",
-      "breed": "Irish Spaniel",
+      "name": "Rachel",
+      "breed": "Golden Retriever",
       "sex": "male"
     },
     {
@@ -51,14 +51,14 @@
     {
       "id": 9,
       "name": "Shelby",
-      "breed": "Kuvasz",
-      "sex": "male"
+      "breed": "Doberman Pinscher",
+      "sex": "female"
     },
     {
       "id": 10,
-      "name": "Patches",
+      "name": "Lucy",
       "breed": "Dingo",
-      "sex": "male"
+      "sex": "female"
     },
     {
       "id": 11,
@@ -86,15 +86,15 @@
     },
     {
       "id": 15,
-      "name": "Pepper",
+      "name": "Salt",
       "breed": "Westhighland Terrier",
-      "sex": "female"
+      "sex": "male"
     },
     {
       "id": 16,
       "name": "Buddy",
-      "breed": "Walker Hound",
-      "sex": "female"
+      "breed": "Hound",
+      "sex": "male"
     },
     {
       "id": 17,
